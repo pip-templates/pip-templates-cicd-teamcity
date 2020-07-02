@@ -1,0 +1,6 @@
+{
+  "name": "pip-templates-cicd-teamcity",
+  "registry": "pip-templates",
+  "version": "1.0.0",
+  "build": 1
+}
